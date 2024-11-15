@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0136-single-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0443-string-compression](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
