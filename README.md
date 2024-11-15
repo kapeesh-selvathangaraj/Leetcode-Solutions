@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
