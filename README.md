@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
