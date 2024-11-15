@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0065-valid-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0443-string-compression](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
