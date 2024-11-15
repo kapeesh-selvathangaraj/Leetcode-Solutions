@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -54,9 +56,11 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Stack
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -71,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
