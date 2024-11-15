@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0065-valid-number) |
 | [0443-string-compression](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
