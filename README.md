@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0878-shifting-letters](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2727-number-of-senior-citizens](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0126-word-ladder-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0878-shifting-letters](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [2727-number-of-senior-citizens](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0135-candy](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0135-candy) |
+## Prefix Sum
+|  |
+| ------- |
+| [0878-shifting-letters](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 <!---LeetCode Topics End-->
