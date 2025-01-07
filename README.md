@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0878-shifting-letters](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
+| [1524-string-matching-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0878-shifting-letters](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
+| [1524-string-matching-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2727-number-of-senior-citizens](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0878-shifting-letters](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
