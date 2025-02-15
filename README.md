@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -161,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
