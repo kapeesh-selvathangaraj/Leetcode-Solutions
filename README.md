@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
