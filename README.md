@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0068-text-justification](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0127-word-ladder) |
