@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0878-shifting-letters](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1524-string-matching-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
