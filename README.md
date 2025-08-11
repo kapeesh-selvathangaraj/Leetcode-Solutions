@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0792-binary-search) |
