@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0792-binary-search](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0878-shifting-letters) |
 | [1524-string-matching-in-an-array](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kapeesh-selvathangaraj/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sorting
 |  |
